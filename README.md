@@ -1,8 +1,10 @@
-# Requirements
+# Search Function with Autocomplete
+
+## Requirements
 * npm
 * Webbrowser
 
-# Getting started
+## Getting started
 1. Install requirements
 ```
 npm install
@@ -12,8 +14,8 @@ npm install
 ./node_modules/http-server/bin/http-server
 ```
 
-# Usage
+## Usage
 Open http://localhost:8080 in browser
 
-# Built with
+## Built with
 * Vanilla JS
